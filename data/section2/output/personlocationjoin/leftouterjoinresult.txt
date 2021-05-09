@@ -1,0 +1,5 @@
+1,John,DC
+2,Albert,NY
+3,Lui,NULL
+4,Smith,LA
+5,Robert,NULL
